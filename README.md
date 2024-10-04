@@ -50,3 +50,8 @@ I'm a Data Scientist (M.S.) with advanced expertise in data analysis, machine le
     &nbsp;&nbsp;&nbsp;
     <img src="https://github.com/user-attachments/assets/6893c419-e4b4-433f-bcca-9d6cd08cb6bd" width="400" height="400">
 </div>
+
+### Donut image classification
+<img src="https://github.com/user-attachments/assets/89d583a5-f713-4f55-afe0-08a35558de5c" width="400" height="400">
+&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/853af04a-e598-4508-a6db-b51751af0356" width="400" height="400">
