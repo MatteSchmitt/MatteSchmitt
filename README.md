@@ -34,7 +34,8 @@ Data Scientist (M.S.) with advanced expertise in data analysis, machine learning
   </div>
 
   <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/7fe726a9-20f1-4354-8311-9ca741afe07e" width="50" height="50">
+    <img src="https://github.com/user-attachments/assets/fb5dd302-3b4e-43b6-bd20-8ceeab6c9642" width="50" height="50">
+" width="50" height="50">
     <p>Tableau</p>
   </div>
 
