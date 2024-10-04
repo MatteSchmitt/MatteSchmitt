@@ -27,7 +27,8 @@ I'm a Data Scientist (M.S.) with advanced expertise in data analysis, machine le
 <div style="display: flex; flex-direction: row;">
     <img src="https://github.com/user-attachments/assets/a8fdd693-b7d7-4f3e-9690-319edd561842" width="400" height="400">
     &nbsp;&nbsp;&nbsp;
-    <img src="https://path/to/your/gif.gif" width="400" height="400">
+   ![basketball gif](https://raw.githubusercontent.com/MatteSchmitt/MatteSchmitt/main/basketball%20gif.gif)
+
 </div>
 
 </div>
