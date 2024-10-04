@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Matthew Schmitt!
 
-## 🚀 Data Scientist | Data Analyst | Machine Learning Enthusiast
+## 🚀 Data Scientist | Marine Scienctist | Aquarium enthusiast | Grill King
 
 Data Scientist (M.S.) with advanced expertise in data analysis, machine learning, and predictive modeling. Proficient in Python, R, SQL, and a range of data visualization tools. Experienced in applying both supervised and unsupervised learning techniques to solve real-world problems.
 
