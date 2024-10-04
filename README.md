@@ -1,4 +1,5 @@
 ## Hi there! 👋 I'm Nicholas Consiglio!
+## Hi there! 👋 I'm Nicholas Consiglio!
 
 ## 🚀 Data Scientist | Data Analyst | Machine Learning Enthusiast
 
@@ -20,21 +21,19 @@ I'm a Data Scientist (M.S.) with advanced expertise in data analysis, machine le
 - 🏀 - Basketball object detection 
 - ✈️ - Predicting Flights to Hawaii
 
+## Visualizations from Projects
 
+#### Basketball object detection  
+<img src="https://github.com/user-attachments/assets/a8fdd693-b7d7-4f3e-9690-319edd561842" width="350">
 
-  ## Visualizations from Projects
+#### Provocation and Shark Species
+<img src="https://github.com/user-attachments/assets/b22dafdb-6641-4d62-96d9-c8fb315bb08e" width="350">
 
-#### Basketball object detection  ![image](https://github.com/user-attachments/assets/a8fdd693-b7d7-4f3e-9690-319edd561842)
- Provocation and Shark Species
-![image](https://github.com/user-attachments/assets/b22dafdb-6641-4d62-96d9-c8fb315bb08e)
+#### Dynamic Regression of Flights to Hawaii 
+<img src="https://github.com/user-attachments/assets/64345ec7-0afb-4588-b2f4-2775b44c76e8" width="350">
 
-
-#### Dynamic Regression of Flights to Hawaii ![image](https://github.com/user-attachments/assets/64345ec7-0afb-4588-b2f4-2775b44c76e8)
- 
-#### Dynamic Regression of Flights to Hawaii ![image](https://github.com/user-attachments/assets/0792aa1b-ccda-4db2-b9d4-fd981adc5e6d)
-
-
-
+#### Dynamic Regression of Flights to Hawaii
+<img src="https://github.com/user-attachments/assets/0792aa1b-ccda-4db2-b9d4-fd981adc5e6d" width="350">
 
 <!--
 **NicholasConsiglio1201/NicholasConsiglio1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
