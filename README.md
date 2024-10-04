@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Nicholas Consiglio!
+## Hi there! 👋 Matthew Schmitt!
 
 ## 🚀 Data Scientist | Data Analyst | Machine Learning Enthusiast
 
@@ -13,7 +13,7 @@ I'm a Data Scientist (M.S.) with advanced expertise in data analysis, machine le
 * 📊 - Power BI
 * 📈 - Tableau
 
-## Completed Projects:
+## Completed Public Projects:
 - 🦈 - Global Shark Attacks
 - 🍔 - Neural Nutritional Network
 - 🦠 - Object Detection of Micro-Organisms
@@ -21,7 +21,7 @@ I'm a Data Scientist (M.S.) with advanced expertise in data analysis, machine le
 - 🏀 - Basketball object detection 
 - ✈️ - Predicting Flights to Hawaii
 
-## Visualizations from Projects
+## Visualizations from Public Projects
 
 #### Basketball object detection
 <div style="display: flex; flex-direction: row;">
