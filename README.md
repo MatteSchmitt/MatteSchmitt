@@ -29,6 +29,22 @@ Data Scientist (M.S.) with advanced expertise in data analysis, machine learning
       <img src="https://github.com/user-attachments/assets/7fe726a9-20f1-4354-8311-9ca741afe07e" width="50" height="50"><br>Tableau
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/36b92345-fcf6-42e8-bb88-33e0ee621eb2" width="50" height="50"><br>AWS
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/461ee34e-14c9-4e1e-a8d8-a25ae5a71758" width="50" height="50"><br>Databricks
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/1f65af77-a120-4239-8fee-d8d4eb2180bf" width="50" height="50"><br>Snowflake
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/57465c2f-48c3-4623-9fa0-9ef07c3b2ef0" width="50" height="50"><br>Azure
+    </td>
+  </tr>
 </table>
 
 
