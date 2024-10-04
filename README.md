@@ -19,17 +19,20 @@ I'm a Data Scientist (M.S.) with advanced expertise in data analysis, machine le
 - 🍩 - Donut image classification
 - 🏀 - Basketball object detection 
 - ✈️ - Predicting Flights to Hawaii
-![image](https://github.com/user-attachments/assets/a8fdd693-b7d7-4f3e-9690-319edd561842)
+
 
 
   ## Visualizations from Projects
 
-#### College Representation for NBA 2023-2024 Season &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fatal vs. Non-Fatal Shark Attacks Over Time
-<img width="350" alt="Capture" src="https://github.com/user-attachments/assets/e9fdb41e-647a-4291-a9fc-2e67a5fcfd2c">&nbsp;&nbsp;&nbsp;<img width="400" alt="Shark Attacks 3" src="https://github.com/user-attachments/assets/6d882b3d-cdc0-473d-9c27-e3ec1049ee8e">
+#### Basketball object detection  ![image](https://github.com/user-attachments/assets/a8fdd693-b7d7-4f3e-9690-319edd561842)
+ Provocation and Shark Species
+![image](https://github.com/user-attachments/assets/b22dafdb-6641-4d62-96d9-c8fb315bb08e)
 
-#### 2024 NBA Champions Predictions &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Object Detection with Yolov8 Model 
 
-<img width="350" alt="Boston Celtics Winners" src="https://github.com/user-attachments/assets/359ab74d-b701-448e-9a55-363859978fab">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/5e693e27-9da4-49bb-aaef-011548156603" width="350" />
+#### Dynamic Regression of Flights to Hawaii ![image](https://github.com/user-attachments/assets/64345ec7-0afb-4588-b2f4-2775b44c76e8)
+ 
+#### Dynamic Regression of Flights to Hawaii ![image](https://github.com/user-attachments/assets/0792aa1b-ccda-4db2-b9d4-fd981adc5e6d)
+
 
 
 
