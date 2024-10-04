@@ -25,11 +25,11 @@ I'm a Data Scientist (M.S.) with advanced expertise in data analysis, machine le
 
 #### Basketball object detection
 <div style="display: flex; flex-direction: row;">
-    <img src="https://github.com/user-attachments/assets/a8fdd693-b7d7-4f3e-9690-319edd561842" width="350">
+    <img src="https://github.com/user-attachments/assets/a8fdd693-b7d7-4f3e-9690-319edd561842" width="400" height="400">
     &nbsp;&nbsp;&nbsp;
-![basketball gif](https://github.com/user-attachments/assets/6677743a-f86f-4fba-9810-b4f7debc549c)
+    <img src="https://path/to/your/gif.gif" width="400" height="400">
+</div>
 
-   
 </div>
 
 #### Global Shark Attacks
