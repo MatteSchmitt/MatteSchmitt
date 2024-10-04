@@ -2,16 +2,28 @@
 
 ## 🚀 Data Scientist | Data Analyst | Machine Learning Enthusiast
 
-I'm a Data Scientist (M.S.) with advanced expertise in data analysis, machine learning, and predictive modeling. With a strong passion for transforming raw data into valuable insights, I leverage my skills in Python, R, SQL, and data visualization tools like Power BI and Tableau to solve complex data problems.
+Data Scientist (M.S.) with advanced expertise in data analysis, machine learning, and predictive modeling. Proficient in Python, R, SQL, and a range of data visualization tools. Experienced in applying both supervised and unsupervised learning techniques to solve real-world problems.
 
 ## Technologies and Tools
 
 * 🐍 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, and more)
+  ![image](https://github.com/user-attachments/assets/a3f75745-68ae-4289-8823-cf5c72cdf973)
+
 * 🌐 - R (Time-Series)
+  ![image](https://github.com/user-attachments/assets/c197ab3f-a6ec-4044-8f30-26c65df6cd51)
+
 * 🌆 - SQL
+ ![image](https://github.com/user-attachments/assets/3f542b01-c748-4bc3-9c8d-8930d8d7b556)
+
 * 📉 - SAS
+  ![image](https://github.com/user-attachments/assets/5bdb4b5d-d105-44e5-a1c9-8f46c4f3fb4d)
+
 * 📊 - Power BI
+ ![image](https://github.com/user-attachments/assets/da6a82f0-2140-4936-9a17-c8acd04c9b5f)
+
 * 📈 - Tableau
+  ![image](https://github.com/user-attachments/assets/7fe726a9-20f1-4354-8311-9ca741afe07e)
+
 
 ## Completed Public Projects:
 - 🦈 - Global Shark Attacks
