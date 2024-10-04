@@ -12,7 +12,7 @@ Data Scientist (M.S.) with advanced expertise in data analysis, machine learning
       <img src="https://github.com/user-attachments/assets/a3f75745-68ae-4289-8823-cf5c72cdf973" width="50" height="50"><br>Python
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/c197ab3f-a6ec-4044-8f30-26c65df6cd51" width="50" height="50"><br>R 
+      <img src="https://github.com/user-attachments/assets/c197ab3f-a6ec-4044-8f30-26c65df6cd51" width="50" height="50"><br>R (Time-Series)
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/3f542b01-c748-4bc3-9c8d-8930d8d7b556" width="50" height="50"><br>SQL
@@ -20,11 +20,11 @@ Data Scientist (M.S.) with advanced expertise in data analysis, machine learning
     <td align="center">
       <img src="https://github.com/user-attachments/assets/5bdb4b5d-d105-44e5-a1c9-8f46c4f3fb4d" width="50" height="50"><br>SAS
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/da6a82f0-2140-4936-9a17-c8acd04c9b5f" width="50" height="50"><br>Power BI
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/7fe726a9-20f1-4354-8311-9ca741afe07e" width="50" height="50"><br>Tableau
     </td>
@@ -34,8 +34,6 @@ Data Scientist (M.S.) with advanced expertise in data analysis, machine learning
     <td align="center">
       <img src="https://github.com/user-attachments/assets/461ee34e-14c9-4e1e-a8d8-a25ae5a71758" width="50" height="50"><br>Databricks
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/1f65af77-a120-4239-8fee-d8d4eb2180bf" width="50" height="50"><br>Snowflake
     </td>
