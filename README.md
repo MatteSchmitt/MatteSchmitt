@@ -15,6 +15,7 @@ I'm a Data Scientist (M.S.) with advanced expertise in data analysis, machine le
 
 ## Completed Projects:
 - 🦈 - Global Shark Attacks
+- 🍔 - Neural Nutritional Network
 - 🦠 - Object Detection of Micro-Organisms
 - 🍩 - Donut image classification
 - 🏀 - Basketball object detection 
@@ -26,6 +27,7 @@ I'm a Data Scientist (M.S.) with advanced expertise in data analysis, machine le
 <div style="display: flex; flex-direction: row;">
     <img src="https://github.com/user-attachments/assets/a8fdd693-b7d7-4f3e-9690-319edd561842" width="350">
     &nbsp;&nbsp;&nbsp;
+![image](https://github.com/user-attachments/assets/a5ee2073-2d50-4c1d-98ac-15d4b571c908)
 
 </div>
 #### Global Shark Attacks
@@ -36,7 +38,12 @@ I'm a Data Scientist (M.S.) with advanced expertise in data analysis, machine le
  </div>
 #### Dynamic Regression of Flights to Hawaii 
 <img src="https://github.com/user-attachments/assets/64345ec7-0afb-4588-b2f4-2775b44c76e8" width="350">
+&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/f1240fcc-607c-4ae5-93a1-b93ad39c8e69" width="350">
+
 
 </div>
-#### Dynamic Regression of Flights to Hawaii
+#### Neural Nutritional Network
 <img src="https://github.com/user-attachments/assets/0792aa1b-ccda-4db2-b9d4-fd981adc5e6d" width="350">
+&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/6893c419-e4b4-433f-bcca-9d6cd08cb6bd" width="350">
